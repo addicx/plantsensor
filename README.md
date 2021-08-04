@@ -19,3 +19,6 @@ Thermistor data pin was linked to the 3V by the resistor and wired to GP16
 Soil moisture sensors were wired to GP26, GP27 and GP28
 
 All sensors were grounded to ground pins and powered by the 3V3O pin
+
+You will need to add main.py, the src folder with CSMS.py and the Waveshare Pico OLED 1.3 driver on the Pico for this to run.
+Thanks to ashleywm for the code to run the soil moisture sensors.
